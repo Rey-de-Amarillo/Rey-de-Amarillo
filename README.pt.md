@@ -23,11 +23,7 @@
 </p>
 
 <p>
-  <picture><img src="assets/introduction-pt.svg" alt="Programador de software e CTO da WorKraken, onde criamos ferramentas de gestão, comunicação e presença digital para pequenos negócios. Também desenvolvo soluções para problemas concretos, desde a consulta de infrações de trânsito até ao diagnóstico da injeção eletrónica a partir do telemóvel." width="840" /></picture>
-</p>
-
-<p>
-  <picture><img src="assets/carcosa-pt.svg" alt="No meu tempo livre, trabalho num jogo de estratégia em Flutter e passeio por Carcosa." width="698" align="absmiddle" /></picture>
+  <picture><img src="assets/introduction-workraken-pt.svg" alt="Programador de software e CTO da WorKraken, onde desenvolvemos sistemas de gestão para pequenas e médias empresas." width="840" /></picture>
 </p>
 
 <p align="center">
@@ -65,11 +61,7 @@
 <!-- GOLD-GRID:START -->
 <p align="center">
 <picture><img src="assets/project-grid-gold/cell-337a089cf9d5.svg" alt="Projeto" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-74b8500e6388.svg" alt="O que faz" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-fc8d26a97cea.svg" alt="Meu papel" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-79342e86a0fd.svg" alt="Stack" width="27%" align="top" /></picture><br />
-<a href="https://github.com/Workraken" title="WorKraken"><img src="assets/project-grid-gold/cell-ac551fca1502.svg" alt="Projeto: WorKraken" width="20%" align="top" /></a><picture><img src="assets/project-grid-gold/cell-9e0cc5f3343d.svg" alt="O que faz: Gestão, comunicação e presença digital para pequenos negócios" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-de5119024047.svg" alt="Meu papel: CTO" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-34942c419b72.svg" alt="Stack: Python · Jinja2 · Uvicorn JavaScript · HTML/CSS Dart · Flutter Firebase / Firestore" width="27%" align="top" /></picture><br />
-<picture><img src="assets/project-grid-gold/cell-09724526b4b8.svg" alt="Projeto: PostWik" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-f83f0b6f421c.svg" alt="O que faz: Em desenvolvimento, em preparação para publicação" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-64c47cfc3e06.svg" alt="Meu papel: Colaborador com Soy-Red" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-bf296aeb5d14.svg" alt="Stack: Python · JavaScript HTML/CSS · SQLite" width="27%" align="top" /></picture><br />
-<picture><img src="assets/project-grid-gold/cell-bc15b38ed501.svg" alt="Projeto: VialSYS" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-0069a3da344d.svg" alt="O que faz: Consulta de infrações por matrícula e verificação de radares" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-3d29092ffddc.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-13a709ae4ea5.svg" alt="Stack: Python · JavaScript HTML/CSS Next.js · React" width="27%" align="top" /></picture><br />
-<picture><img src="assets/project-grid-gold/cell-251811eb3448.svg" alt="Projeto: IaCar" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-ca6774e9f46a.svg" alt="O que faz: Diagnóstico da injeção eletrónica a partir do telemóvel" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-4de0208f4581.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-0990150d2bae.svg" alt="Stack: Dart · Flutter Kotlin C++" width="27%" align="top" /></picture><br />
-<picture><img src="assets/project-grid-gold/cell-c1055e3fb485.svg" alt="Projeto: Crónicas de los Cuatro Reinos" width="20%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-ec8d5bf09321.svg" alt="O que faz: Jogo de estratégia assimétrica de fantasia, desenvolvido como hobby" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-0f2c15393563.svg" alt="Meu papel: Autor" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-c2801d12564b.svg" alt="Stack: Dart · Flutter" width="27%" align="top" /></picture>
+<a href="https://github.com/Workraken" title="WorKraken"><img src="assets/project-grid-gold/cell-ac551fca1502.svg" alt="Projeto: WorKraken" width="20%" align="top" /></a><picture><img src="assets/project-grid-gold/workraken-description-pt.svg" alt="O que faz: Sistemas de gestão para pequenas e médias empresas" width="34%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-de5119024047.svg" alt="Meu papel: CTO" width="18%" align="top" /></picture><picture><img src="assets/project-grid-gold/cell-34942c419b72.svg" alt="Stack: Python · Jinja2 · Uvicorn JavaScript · HTML/CSS Dart · Flutter Firebase / Firestore" width="27%" align="top" /></picture>
 </p>
 <!-- GOLD-GRID:END -->
 
